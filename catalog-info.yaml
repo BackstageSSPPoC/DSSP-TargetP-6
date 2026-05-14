@@ -32,7 +32,6 @@ metadata:
     jenkins.io/job-full-name: Backstage_SSP_PoC/DSSP-TargetP-6/main
     argocd/app-name: dssp-targetp-6
     backstage.io/kubernetes-id: DSSP-TargetP-6
-    backstage.io/kubernetes-namespace: prod
     sonarqube.org/project-key: dssp-targetp-6
 
 spec:
